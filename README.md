@@ -21,3 +21,4 @@ Pak te tuka
 
 ###Copyright
 
+All rights reserverd. 
