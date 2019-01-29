@@ -12,6 +12,9 @@ Blalalalaalal
 
 ## How To Contribute
 
+Forking
+
+
 ## Be 
 
 ###Copyright
