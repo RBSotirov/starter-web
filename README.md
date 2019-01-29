@@ -13,7 +13,7 @@ Blalalalaalal
 ## How To Contribute
 
 Forking
- 
+Te tuka
 
 ## Be 
 
