@@ -13,3 +13,6 @@ Blalalalaalal
 ## How To Contribute
 
 ## Be 
+
+###Copyright
+
